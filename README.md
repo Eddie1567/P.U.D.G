@@ -5,7 +5,7 @@
 
 **Step 1** : Clone the repository by typing the below command into your terminal
 ```
-git clone https://github.com/ZiaCodes/P.U.D.G-.git
+git clone https://github.com/ZiaCodes/P.U.D.G.git
 ```
 
 **Step 2** : Open the file with your favorite Code Editor like mine is VS CODE -> https://code.visualstudio.com/download
