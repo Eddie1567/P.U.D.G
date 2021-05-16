@@ -127,6 +127,7 @@ MONGO_URI = mongodb+srv://Admin:YOUR-PASSWORD@cluster0.qukgp.mongodb.net/YOUR-DA
 ```
 npm start
 ```
+**step 9**: Now open your browser and visit localhost:3000 and Now change the code according to your need 
 
 ## If you need any help you can always contact me at @ziaxdev[Instagram] or ziaxdev@gmail.com.
 
